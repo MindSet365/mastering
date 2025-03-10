@@ -1,3 +1,1 @@
-# Demonstration
-
-just something
+Here are my personal projects 
